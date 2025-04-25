@@ -25,7 +25,7 @@ CipherBox is a simple desktop encryption app built with **Electron**, **HTML**, 
 ### Setup
 
 ```bash
-git clone https://github.com/robinkshah/encryption-menu.git
+git clone https://github.com/robinkshah/Encryption-Menu.git
 cd encryption-menu
 npm install
 npm start
@@ -33,22 +33,7 @@ npm start
 
 ---
 
-## Project Structure
-
-```
-.
-├── index.html         # User interface
-├── style.css          # App styling
-├── renderer.js        # Frontend JS logic
-├── main.js            # Electron entry point
-├── package.json       # Node dependencies
-├── screenshot.png     # UI preview 
-└── README.md          # You're here
-```
-
----
-
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) – feel free to use and modify it!
 
