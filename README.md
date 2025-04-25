@@ -1,6 +1,6 @@
-# 🔐 CipherBox
+# CipherBox: A Simple Encrytion Menu Desktop App
 
-CipherBox is a simple desktop encryption and decryption app built with **Electron**, **HTML**, **CSS**, and **JavaScript**. It allows users to encode or decode messages using classic ciphers with a clean interface.
+CipherBox is a simple desktop encryption app built with **Electron**, **HTML**, **CSS**, and **JavaScript**. It allows users to encode messages using classic ciphers with a clean interface.
 
 ![CipherBox Screenshot](./screenshot.png)
 
@@ -12,9 +12,7 @@ CipherBox is a simple desktop encryption and decryption app built with **Electro
 - ✅ Atbash Cipher
 - ✅ Vigenère Cipher (with keyword)
 - ✅ Base64 encoding/decoding
-- ✅ Dynamic encryption/decryption switch
 - ✅ Clean dark-themed interface
-- ✅ Built as a cross-platform desktop app
 
 ---
 
@@ -27,8 +25,8 @@ CipherBox is a simple desktop encryption and decryption app built with **Electro
 ### Setup
 
 ```bash
-git clone https://github.com/your-username/cipherbox.git
-cd cipherbox
+git clone https://github.com/robinkshah/encryption-menu.git
+cd encryption-menu
 npm install
 npm start
 ```
@@ -44,15 +42,13 @@ npm start
 ├── renderer.js        # Frontend JS logic
 ├── main.js            # Electron entry point
 ├── package.json       # Node dependencies
-├── screenshot.png     # UI preview (optional)
+├── screenshot.png     # UI preview 
 └── README.md          # You're here
 ```
 
 ---
 
 ## 📸 Preview
-
-> Replace `screenshot.png` with your actual app screenshot:
 ![Preview](./screenshot.png)
 
 ---
@@ -60,15 +56,6 @@ npm start
 ## 📄 License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) – feel free to use and modify it!
-
----
-
-## 💡 Future Ideas
-
-- Add clipboard support
-- Save encrypted/decrypted output to file
-- Add AES or RSA encryption for secure use cases
-- Switch between light/dark modes
 
 ---
 
