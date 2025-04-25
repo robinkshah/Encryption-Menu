@@ -6,17 +6,17 @@ CipherBox is a simple desktop encryption app built with **Electron**, **HTML**, 
 
 ---
 
-## ✨ Features
+## Features
 
-- ✅ Caesar Cipher (with shift)
-- ✅ Atbash Cipher
-- ✅ Vigenère Cipher (with keyword)
-- ✅ Base64 encoding/decoding
-- ✅ Clean dark-themed interface
+- Caesar Cipher (with shift)
+- Atbash Cipher
+- Vigenère Cipher (with keyword)
+- Base64 encoding/decoding
+- Clean dark-themed interface
 
 ---
 
-## 🛠️ Installation
+## 🛠Installation
 
 ### Requirements
 
@@ -33,7 +33,7 @@ npm start
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 .
@@ -48,7 +48,7 @@ npm start
 
 ---
 
-## 📸 Preview
+## Preview
 ![Preview](./screenshot.png)
 
 ---
@@ -59,4 +59,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ---
 
-Built with ❤️ using Electron and plain JavaScript.
+Built with ❤️ using Electron and plain JavaScript. Enjoy!!
