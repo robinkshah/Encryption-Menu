@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Encryption App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>CipherBox</h1>
+  <textarea id="inputText" placeholder="Type your message here..."></textarea>
+  
+  <select id="cipherChoice">
+    <option value="caesar">Caesar Cipher</option>
+    <option value="atbash">Atbash Cipher</option>
+    <option value="vigenere">Vigenère Cipher</option>
+    <option value="base64">Base64 Encode</option>
+  </select>
+  
+  
+    <input type="text" id="key" placeholder="Key (if applicable)" />
+    <button onclick="encryptText()">Encrypt</button>
+  
+
+  <h3>Encrypted Output:</h3>
+  <pre id="outputText"></pre>
+
+  <script src="renderer.js"></script>
+</body>
+</html>
