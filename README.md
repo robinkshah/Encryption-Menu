@@ -33,10 +33,4 @@ npm start
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) – feel free to use and modify it!
-
----
-
 Built with ❤️ using Electron and plain JavaScript. Enjoy!!
